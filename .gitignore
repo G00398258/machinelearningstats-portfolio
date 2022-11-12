@@ -152,3 +152,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Folder containing a copy of Ian's notebooks
+/Exercises/Ian's Notebooks/
+
+# Jupyter notebook from a previous module I referenced to refresh my memory on Jupyter functionality
+/Exercises/cao.ipynb
