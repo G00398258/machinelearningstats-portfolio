@@ -81,61 +81,27 @@ A different style is used for each plot. Note that you can check what styles are
 ``# To change the style``  
 ``plt.style.use('style_name')``  
 
-### References & Data Sources NEEDS TO BE UPDATED!!
+### References & Data Sources  
 ***
-**_CAO Notebook_**  
-[1] https://blog.finxter.com/python-regex-start-of-line-and-end-of-line/  
-[2] https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial  
-[3] https://datatofish.com/dropna/  
-[4] https://datatofish.com/replace-values-pandas-dataframe/  
-[5] https://discuss.analyticsvidhya.com/t/getting-typeerror-not-supported-between-instances-of-str-and-float/18535/19  
-[6] https://docs.python.org/3/library/re.html  
-[7] https://www.geeksforgeeks.org/how-to-convert-floats-to-strings-in-pandas-dataframe/  
-[8] https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/  
-[9] https://www.kite.com/python/answers/how-to-replace-column-values-in-a-pandas-dataframe-in-python  
-[10] https://newbedev.com/pandas-converting-floats-to-strings-without-decimals  
-[11] https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html  
-[12] https://stackoverflow.com/questions/13035764/remove-pandas-rows-with-duplicate-indices  
-[13] https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value  
-[14] http://validator.w3.org/i18n-checker/  
-[15] https://www.w3.org/International/questions/qa-html-encoding-declarations  
+**_Statistics Exercises_**  
+ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.fisher_exact.html  
+ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html  
+ https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks  
 
-_**CAO Points Data**_  
-2019: http://www.cao.ie/index.php?page=points&p=2019  
-2020: https://www.cao.ie/index.php?page=points&p=2020&bb=points  
-2021: https://www.cao.ie/index.php?page=points&p=2021&bb=points  
+**_Models Exercises_**  
+https://www.bradthiessen.com/html5/docs/ols.pdf  
+https://docs.scipy.org/doc/numpy-1.6.0/reference/generated/numpy.absolute.html  
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html  
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize  
+https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks  
+https://numpy.org/doc/stable/reference/generated/numpy.asarray.html  
+https://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia  
 
-**_Pyplot Notebook_**  
-[1] https://dzone.com/articles/types-of-matplotlib-in-python  
-[2] https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html  
-[3] https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html  
-[4] https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html    
-[5] https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html  
-[6] https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.stackplot.html  
-[7] https://matplotlib.org/stable/tutorials/introductory/pyplot.html  
-[8] https://realpython.com/visualizing-python-plt-scatter/  
-[9] https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct  
-[10] https://stackabuse.com/matplotlib-stack-plot-tutorial-and-examples/  
-[11] https://towardsdatascience.com/scatterplot-creation-and-visualisation-with-matplotlib-in-python-7bca2a4fa7cf  
-[12] https://towardsdatascience.com/a-practical-summary-of-matplotlib-in-13-python-snippets-4d07f0011bdf  
-[13] https://www.tutorialspoint.com/matplotlib/matplotlib_pie_chart.htm  
-[14] https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/  
-[15] https://www.geeksforgeeks.org/matplotlib-pyplot-scatter-in-python/  
-[16] https://www.geeksforgeeks.org/matplotlib-pyplot-stackplot-in-python/  
-[17] https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/  
-[18] https://www.geeksforgeeks.org/pyplot-in-matplotlib/  
-[19] https://www.geeksforgeeks.org/python-matplotlib-an-overview/  
-[20] https://www.python-graph-gallery.com/stacked-area-plot/  
-[21] https://www.w3schools.com/python/matplotlib_intro.asp  
-
-_**Pie Chart Data**_  
-https://covid-19.geohive.ie/pages/vaccinations  
-
-_**Scatter Plot Data**_  
-https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/639388c2cbc2120a14dcf466e85730eb8be498bb/iris.csv  
-
-_**Stack Plot Data**_  
-https://stats.beepbeep.ie/  
+**_Parameters Exercises_**  
+https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks  
+https://mathcracker.com/  
+https://numpy.org/doc/stable/reference/generated/numpy.asarray.html  
+https://undergroundmathematics.org/  
 
 # End  
 ***
