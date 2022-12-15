@@ -87,9 +87,11 @@ A different style is used for each plot. Note that you can check what styles are
  https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.fisher_exact.html  
  https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html  
  https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks  
+ https://unstats.un.org/unsd/business-stat/  
 
 **_Models Exercises_**  
 https://www.bradthiessen.com/html5/docs/ols.pdf  
+https://www.coursera.org/learn/fitting-statistical-models-data-python  
 https://docs.scipy.org/doc/numpy-1.6.0/reference/generated/numpy.absolute.html  
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html  
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize  
@@ -100,6 +102,7 @@ https://stats.stackexchange.com/questions/118/why-square-the-difference-instead-
 **_Parameters Exercises_**  
 https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/tree/main/notebooks  
 https://mathcracker.com/  
+https://mathinsight.org/function_machine_parameters  
 https://numpy.org/doc/stable/reference/generated/numpy.asarray.html  
 https://undergroundmathematics.org/  
 
