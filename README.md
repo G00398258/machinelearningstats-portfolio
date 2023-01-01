@@ -52,14 +52,14 @@ A Python environment is required to run the Jupyter notebooks in this repository
   
 ### What's in the Notebooks?  
 ***
-**__Keras Notebook__**  
+**_Keras Notebook_**  
 This Jupyter notebook contains a walkthrough of the example code on the [Keras website](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) for timeseries anomaly detection using an autoencoder.   
 <br>  
   
 In this notebook, I break down and explain the example code in four sections:  
 1. Data - in which I gather the data for the project  
 2. Pre-Processing - where I prepare the data for use in my model  
-3. Neural Network - here I buid, compile and train the model   
+3. Neural Network - here I build, compile and train the model   
 4. Evaluation - finally I use the model to make predictions and identify anomalies in the data  
 <br>  
   
