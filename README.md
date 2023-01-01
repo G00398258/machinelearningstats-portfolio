@@ -52,7 +52,7 @@ A Python environment is required to run the Jupyter notebooks in this repository
   
 ### What's in the Notebooks?  
 ***
-**Keras Notebook**  
+**__Keras Notebook__**  
 This Jupyter notebook contains a walkthrough of the example code on the [Keras website](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) for timeseries anomaly detection using an autoencoder.   
 <br>  
   
@@ -85,6 +85,7 @@ The question/instructions for each exercise has been copied into the relevant no
 https://coolconversion.com/math/scientific-notation-to-decimal/Convert_4.1E-15_to-number  
 https://data-flair.training/blogs/keras-loss-functions/  
 https://fintelics.medium.com/everything-you-need-to-know-about-numenta-anomaly-benchmark-nab-b43ab7f014df  
+https://github.com/ianmcloughlin/2223-S1-machine-learn-stats/blob/main/notebooks/05-evaluation.ipynb  
 https://www.kaggle.com/code/residentmario/keras-optimizers  
 https://www.kaggle.com/datasets/boltzmannbrain/nab  
 https://keras.io/api/callbacks/early_stopping/  
@@ -100,6 +101,8 @@ https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
 https://medium.com/towards-artificial-intelligence/autoencoder-for-anomaly-detection-using-tensorflow-keras-7fdfa9f3ad99  
 https://neptune.ai/blog/keras-loss-functions  
 https://www.projectpro.io/recipes/what-is-drop-out-rate-keras  
+https://raw.githubusercontent.com/numenta/NAB/master/data/artificialNoAnomaly/art_daily_small_noise.csv  
+https://raw.githubusercontent.com/numenta/NAB/master/data/artificialWithAnomaly/art_daily_jumpsup.csv  
 https://towardsdatascience.com/time-series-of-price-anomaly-detection-with-lstm-11a12ba4f6d9  
 https://www.tutorialspoint.com/keras/keras_layers.htm  
 https://www.tutorialspoint.com/keras/keras_model_compilation.htm  
