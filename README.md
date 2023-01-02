@@ -76,7 +76,7 @@ __Contents:__
 - 03-parameters-exercises.ipynb  
 <br>  
   
-The question/instructions for each exercise has been copied into the relevant notebook, and all sources referred to or consulted can be found in the __References & Data Sources__ section below.  
+The question/instructions for each exercise has been copied into the relevant notebook, and all sources referred to or consulted can be found in the __References & Data Sources__ section below (note that the lecturer's example code provided in the notebooks used in lectures was the main reference point for these exercises.)    
 <br>  
   
 ### References & Data Sources  
